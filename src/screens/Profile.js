@@ -2,10 +2,6 @@ import React from "react";
 import { useHistory } from "react-router-dom";
 
 const Profile = (props) => {
-  //   let history = useHistory();
-  //   if (true) {
-  //     props.history.push("/about");
-  //   }
   return (
     <div>
       {props.user ? (

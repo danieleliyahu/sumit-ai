@@ -31,8 +31,6 @@ const Archive = (props) => {
       participants: meeting.participants.length,
     };
   });
-  console.log(data);
-  console.log(props.columns);
 
   return (
     <div>

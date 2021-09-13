@@ -15,10 +15,7 @@ code {
   margin-left: 10%;
   margin-right: 10%;
 }
-.navBar {
-}
-.navBarUl {
-}
+
 form {
   display: flex;
   flex-flow: column;
